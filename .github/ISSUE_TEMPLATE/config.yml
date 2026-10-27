@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or problem with one of our APIs
+    url: https://hybridforgelab.com/contact.html
+    about: Plans, keys, limits or results of Distill, Shipshape, Luz Indexada and the other APIs. Not handled in issues.
+  - name: Security vulnerability
+    url: https://github.com/hybridforgelab/.github/blob/main/SECURITY.md
+    about: Please report it privately by email, never in a public issue.
