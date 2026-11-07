@@ -1,7 +1,8 @@
-# Hybrid Forge Lab
+# Hybrid Forge Lab is now ByteStay
 
-Reliable, intelligent and scalable automation tools and APIs.
+Hybrid Forge Lab became **ByteStay** in November 2026. The same APIs and open-source tools now live there.
 
-- 🌐 Website: [hybridforgelab.com](https://hybridforgelab.com/)
-- 🧩 APIs and products: [hybridforgelab.com/projects](https://hybridforgelab.com/projects.html)
-- 🛠️ Open source: [hybridforgelab.com/open-source](https://hybridforgelab.com/open-source.html)
+- Website: [bytestay.pt](https://bytestay.pt)
+- GitHub: [github.com/Bytestay](https://github.com/Bytestay)
+
+The repositories in this organization are archived and kept for reference only.
